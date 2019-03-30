@@ -109,34 +109,6 @@ p{
   object-fit: cover; 
 }
 
-.base{
-	width: 1400px;
-	height: 20px;
-	margin: 70px auto;
-	position: relative;
-}
-
-.base ul{
-	list-style: none;
-}
-
-.base ul li{
-	float: left;
-}
-
-.base label{
-	width: 200px;
-	padding: 25px;
-	background-color: #363b48;
-	display: block;
-	cursor: pointer;
-	text-align: center;
-}
-
-.base a{
-	color: #fff;
-}
-
 .rd_navegador{
 	display: none;
 }
