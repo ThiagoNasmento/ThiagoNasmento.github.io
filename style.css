@@ -95,7 +95,14 @@ p{
 	background-color: #BFD8D2;
 }
 
-.col-3 img{
+.col-md-3 img{
+  border-radius: 10%;
+  height: 200px;
+  width: 270px; 
+  object-fit: cover; 
+}
+
+.col-sm-3 img{
   border-radius: 10%;
   height: 200px;
   width: 270px; 
