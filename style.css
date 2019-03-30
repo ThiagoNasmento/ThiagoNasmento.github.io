@@ -24,7 +24,7 @@ body {
 }
 
 #Contato{
-	background-color: #BFD8D2;
+	background-color: #FFFFFF;
 }
 
 #Instagram {
@@ -37,6 +37,10 @@ body {
 
 #EJECT {
 	color: #DF744A;
+}
+
+#faceeinsta{
+	text-align: center;
 }
 
 #tituloprojetos {
