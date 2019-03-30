@@ -19,6 +19,8 @@
   overflow: hidden;
   text-align: center;
   background-image:url(free-vector-blue-watercolor-floral-background.jpg);
+  width:100%;
+ 
 }
 .gallery .controls {
   position: absolute;
